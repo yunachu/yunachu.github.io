@@ -45,8 +45,8 @@ darkmode: false
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jepg
+# about_title: About Me https://yunachu.github.io/
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   "함께 일하고 싶은 사람이 되자. 혼자서 할 수 있는 프로젝트는 없다"<br>
   안녕하세요. 5년차 서버 백엔드 개발자 추유나입니다. <br> **MAU 400만 이커머스** 주문/결제/클레임 서비스, **스마트러닝 교육플랫폼 개발기업** 개발자로 근무했습니다.
