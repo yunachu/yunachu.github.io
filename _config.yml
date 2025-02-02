@@ -48,9 +48,9 @@ darkmode: false
 # about_title: About Me https://yunachu.github.io/
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  "함께 일하고 싶은 사람이 되자. 혼자 할 수 있는 프로젝트는 없다"<br>
-  안녕하세요. 5년차 서버 백엔드 개발자 추유나입니다. <br> **MAU 400만 이커머스(티몬/위메프) ** 주문/결제/클레임 서비스, **스마트러닝 교육플랫폼 ** 개발자로 근무했습니다.
-  <br>MSA 기반의 <mark>대용량 트래픽 처리 분산 아키텍쳐</mark> , <mark>레거시 시스템 리팩토링 및 운영</mark> 경험이 있고, 비즈니스 로직을 명확하게 이해하고 원활한 커뮤니케이션으로 협업하는 능력을 가지고 있습니다.
+  “함께 일하고 싶은 사람이 되자. 혼자 할 수 있는 프로젝트는 없다”<br>
+  안녕하세요. 5년차 서버 백엔드 개발자 추유나입니다. <br> <strong>MAU 400만 이커머스(티몬/위메프) </strong> 주문/결제/클레임 서비스, <strong>스마트러닝 교육플랫폼 </strong> 개발자로 근무했습니다.
+  <br>MSA 기반의 <mark>대용량 트래픽 처리 분산 아키텍쳐</mark> , <mark>레거시 시스템 리팩토링 및 운영</mark> 경험이 있고, 비즈니스 로직을 명확하게 이해하며 원활한 커뮤니케이션으로 협업하는 능력을 가지고 있습니다.
 
 content:
   - title: Experience
